@@ -9,7 +9,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde Olusturd
 ```
 https://github.com/ferit42/kodluyoruzilkrepo.git
 ```
-#Usage
+# Usage
 ---
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
