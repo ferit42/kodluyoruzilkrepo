@@ -18,8 +18,8 @@ Linux için:
 cd kodluyoruzilkrepo
 code .
 ```
-#Contributing
+# Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
-#License
+# License
 [MIT](https://choosealicense.com/licenses/mit/)
 ![Proje resmi](https://res.cloudinary.com/danielkapper-com/image/upload/v1577156572/logo-one.png)
